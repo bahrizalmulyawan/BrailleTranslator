@@ -417,6 +417,13 @@ braille.html
 
 Aplikasi dapat di-host pada web server statis karena tidak menggunakan backend.
 
+live demo
+NonTTS
+https://bahrizalmulyawan.github.io/braille1/
+TTS
+https://bahrizalmulyawan.github.io/braille2/
+
+
 ---
 
 ## ✅ Quick Start
