@@ -428,8 +428,13 @@ cd braille-translator
 # 2. Jalankan localhost
 python -m http.server 8000
 
-# 3. Buka browser
-http://localhost:8000/
-```
+
+## ✅ Live Demo
+```bash
+NonTTS
+https://bahrizalmulyawan.github.io/braille1/
+TTS
+https://bahrizalmulyawan.github.io/braille2/
+
 
 Selamat menggunakan **Braille Translator**! ⠃⠗⠁⠊⠇⠇⠑
